@@ -1,0 +1,14 @@
+Lucas pegou o livro Dom Casmurro emprestado. Existem 1 deste livro
+Lucas pegou o livro Dom Casmurro emprestado. Existem 0 deste livro
+Lucas devolveu o livro Dom Casmurro. Existem 1 deste livro
+Lucas devolveu o livro Dom Casmurro. Existem 2 deste livro
+Lucas pegou o livro Senhora emprestado. Existem 2 deste livro
+Ivson pegou o livro Senhora emprestado. Existem 1 deste livro
+Felipe pegou o livro Senhora emprestado. Existem 0 deste livro
+Lucas pegou o livro Dom Casmurro emprestado. Existem 1 deste livro
+Lucas pegou o livro Dom Casmurro emprestado. Existem 0 deste livro
+Lucas devolveu o livro Dom Casmurro. Existem 1 deste livro
+Lucas devolveu o livro Dom Casmurro. Existem 2 deste livro
+Lucas pegou o livro Senhora emprestado. Existem 2 deste livro
+Ivson pegou o livro Senhora emprestado. Existem 1 deste livro
+Felipe pegou o livro Senhora emprestado. Existem 0 deste livro
